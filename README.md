@@ -1,2 +1,2 @@
 # Web-Frontend
-Repository for frontend projects and exercises.
+## Repository for frontend projects and exercises.
